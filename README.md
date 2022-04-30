@@ -39,7 +39,7 @@ Using the credit card credit dataset from _LendingClub_, a peer-to-peer lending 
 
 Accuracy Score 62%
 
-Markup 1. High Risk:
+Markup : 1. High Risk:
 
             1. Precision is 1%
             2. Recall is 60%
