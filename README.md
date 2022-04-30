@@ -46,9 +46,9 @@ Markup :
             3. F1 is 2%
 Markup :
  2. Low Risk
-            1. Precision is 100%
-            2. Recall is 65%
-            3. F1 is 79%
+    1. Precision is 100%
+    2. Recall is 65%
+    3. F1 is 79%
 
 **SMOTE Algorithm:**
 
