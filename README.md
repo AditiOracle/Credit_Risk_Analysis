@@ -31,7 +31,7 @@ Using the credit card credit dataset from _LendingClub_, a peer-to-peer lending 
 
 **Precision**  - Precision is the ratio of correctly predicted positive observations to the total predicted positive observations. The question that this metric answer is of all users that labeled as Low risk/High risk, how many actually are Low Risk/High risk? High precision relates to the low false positive rate.
 
-**Recall ** (Sensitivity) - Recall is the ratio of correctly predicted positive observations to the all observations in actual class - yes. The question recall answers is: Of all the users that are High Risk/Low Risk, how many did we label as High Risk/Low Risk respectively?
+**Recall (Sensitivity)** - Recall is the ratio of correctly predicted positive observations to the all observations in actual class - yes. The question recall answers is: Of all the users that are High Risk/Low Risk, how many did we label as High Risk/Low Risk respectively?
 
 **F1 score**  - F1 Score is the weighted average of Precision and Recall. Therefore, this score takes both false positives and false negatives into account. Intuitively it is not as easy to understand as accuracy, but F1 is usually more useful than accuracy, especially if you have an uneven class distribution. Accuracy works best if false positives and false negatives have similar cost. If the cost of false positives and false negatives are very different, it&#39;s better to look at both Precision and Recall.
 
