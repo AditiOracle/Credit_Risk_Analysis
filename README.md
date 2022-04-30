@@ -44,14 +44,13 @@ Accuracy Score 62%
             *1. Precision is 1%
             *2. Recall is 60%
             *3. F1 is 2%
-Markup :
 
- 2. Low Risk:
+ * Low Risk:
 
 
-    1. Precision is 100%
-    2. Recall is 65%
-    3. F1 is 79%
+    * Precision is 100%
+    * Recall is 65%
+    * F1 is 79%
 
 **SMOTE Algorithm:**
 
