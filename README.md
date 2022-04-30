@@ -39,94 +39,110 @@ Using the credit card credit dataset from _LendingClub_, a peer-to-peer lending 
 
 Accuracy Score 62%
 
- *1. High Risk:
-
-            *1. Precision is 1%
-            *2. Recall is 60%
-            *3. F1 is 2%
+ * High Risk:
+     * Precision is 1%
+     * Recall is 60%
+     * F1 is 2%
 
  * Low Risk:
-
-
     * Precision is 100%
     * Recall is 65%
     * F1 is 79%
+
+![](https://github.com/AditiOracle/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_OverSampling.png)
 
 **SMOTE Algorithm:**
 
 Accuracy Score 65%
 
-1. High Risk:
+* High Risk:
 
-  1. Precision is 1%
-  2. Recall is 64%
-  3. F1 is 2%
+  * Precision is 1%
+  * Recall is 64%
+  * F1 is 2%
 
-2. Low Risk
-  1. Precision is 100%
-  2. Recall is 66%
-  3. F1 is 79%
+* Low Risk
+  * Precision is 100%
+  * Recall is 66%
+  * F1 is 79%
+
+
+![](https://github.com/AditiOracle/Credit_Risk_Analysis/blob/main/Resources/SMOTE_OverSampling.png)
+
 
 **ClusterCentroids Undersampling Algorithm:**
 
 Accuracy Score 51%
 
-1. High Risk:
+* High Risk:
 
-  1. Precision is 1%
-  2. Recall is 59%
-  3. F1 is 1%
+  * Precision is 1%
+  * Recall is 59%
+  * F1 is 1%
 
-2. Low Risk
+* Low Risk
 
-  1. Precision is 100%
-  2. Recall is 43%
-  3. F1 is 60%
+  * Precision is 100%
+  * Recall is 43%
+  * F1 is 60%
+
+![](https://github.com/AditiOracle/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroid_UnderSampling.png)
 
 **SMOTEEN Algorithm:**
 
 Accuracy Score 64%
 
-1. High Risk:
+* High Risk:
 
-  1. Precision is 1%
-  2. Recall is 70%
-  3. F1 is 2%
+  * Precision is 1%
+  * Recall is 70%
+  * F1 is 2%
 
-2. Low Risk
-  1. Precision is 100%
-  2. Recall is 57%
-  3. F1 is 73%
+* Low Risk
+  * Precision is 100%
+  * Recall is 57%
+  * F1 is 73%
+
+![](https://github.com/AditiOracle/Credit_Risk_Analysis/blob/main/Resources/SMOTEEN_OverUnderSampling.png)
+
 
 **Balanced Random Forest Classifier Model:**
 
 Accuracy Score 65%
 
-1. High Risk:
+* High Risk:
 
-  1. Precision is 1%
-  2. Recall is 64%
-  3. F1 is 2%
+  * Precision is 1%
+  * Recall is 64%
+  * F1 is 2%
 
-2. Low Risk
-  1. Precision is 100%
-  2. Recall is 66%
-  3. F1 is 79%
+* Low Risk
+  * Precision is 100%
+  * Recall is 66%
+  * F1 is 79%
+
+
+![](https://github.com/AditiOracle/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier.png)
+
 
 **Easy Ensemble Classifier Model:**
 
 Accuracy Score 80%
 
-1. High Risk:
+* High Risk:
 
-  1. Precision is 4%
-  2. Recall is 68%
-  3. F1 is 7%
+  * Precision is 4%
+  * Recall is 68%
+  * F1 is 7%
 
-2. Low Risk
-  1. Precision is 100%
-  2. Recall is 91%
-  3. F1 is 95%
+* Low Risk
+  * Precision is 100%
+  * Recall is 91%
+  * F1 is 95%
+
+
+![](https://github.com/AditiOracle/Credit_Risk_Analysis/blob/main/Resources/Easy_Ensemble_AdaBoost_classifier.png)
+
 
 **SUMMARY:**
 
