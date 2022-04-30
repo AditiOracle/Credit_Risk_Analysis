@@ -41,11 +41,11 @@ Accuracy Score 62%
 
 1. High Risk:
 
-1. Precision is 1%
-2. Recall is 60%
-3. F1 is 2%
+  1. Precision is 1%
+  2. Recall is 60%
+  3. F1 is 2%
 
-1. Low Risk
+2. Low Risk
   1. Precision is 100%
   2. Recall is 65%
   3. F1 is 79%
@@ -56,11 +56,11 @@ Accuracy Score 65%
 
 1. High Risk:
 
-1. Precision is 1%
-2. Recall is 64%
-3. F1 is 2%
+  1. Precision is 1%
+  2. Recall is 64%
+  3. F1 is 2%
 
-1. Low Risk
+2. Low Risk
   1. Precision is 100%
   2. Recall is 66%
   3. F1 is 79%
@@ -71,15 +71,15 @@ Accuracy Score 51%
 
 1. High Risk:
 
-1. Precision is 1%
-2. Recall is 59%
-3. F1 is 1%
+  1. Precision is 1%
+  2. Recall is 59%
+  3. F1 is 1%
 
-1. Low Risk
+2. Low Risk
 
-1. Precision is 100%
-2. Recall is 43%
-3. F1 is 60%
+  1. Precision is 100%
+  2. Recall is 43%
+  3. F1 is 60%
 
 **SMOTEEN Algorithm:**
 
@@ -87,11 +87,11 @@ Accuracy Score 64%
 
 1. High Risk:
 
-1. Precision is 1%
-2. Recall is 70%
-3. F1 is 2%
+  1. Precision is 1%
+  2. Recall is 70%
+  3. F1 is 2%
 
-1. Low Risk
+2. Low Risk
   1. Precision is 100%
   2. Recall is 57%
   3. F1 is 73%
@@ -102,11 +102,11 @@ Accuracy Score 65%
 
 1. High Risk:
 
-1. Precision is 1%
-2. Recall is 64%
-3. F1 is 2%
+  1. Precision is 1%
+  2. Recall is 64%
+  3. F1 is 2%
 
-1. Low Risk
+2. Low Risk
   1. Precision is 100%
   2. Recall is 66%
   3. F1 is 79%
@@ -117,11 +117,11 @@ Accuracy Score 80%
 
 1. High Risk:
 
-1. Precision is 4%
-2. Recall is 68%
-3. F1 is 7%
+  1. Precision is 4%
+  2. Recall is 68%
+  3. F1 is 7%
 
-1. Low Risk
+2. Low Risk
   1. Precision is 100%
   2. Recall is 91%
   3. F1 is 95%
